@@ -1,2 +1,2 @@
-# loan-clarity
-Built for students navigating education loans, LoanClarity helps you see the full repayment picture so you can stress less and plan smarter.
+# LoanClarity 💚
+A free tool to help students understand, plan, and stress less about their education loans.

@@ -2,6 +2,8 @@
 
 **A free tool to help students understand, plan, and stress less about their education loans.**
 
+https://saipreetika.github.io/loan-clarity/
+
 ---
 
 ## Why I Built This
